@@ -7,7 +7,7 @@
 **Tu cochinito digital: ahorra, registra y controla tus gastos, 100% en tu teléfono.**
 Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automático desde las notificaciones de tu banco.
 
-[![Versión](https://img.shields.io/badge/versión-2.7-047857?style=for-the-badge)](../../releases/latest)
+[![Versión](https://img.shields.io/badge/versión-2.8-047857?style=for-the-badge)](../../releases/latest)
 [![Android](https://img.shields.io/badge/Android-10%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
 [![Tamaño](https://img.shields.io/badge/APK-8.7%20MB-0D9488?style=for-the-badge)](../../releases/latest)
 
@@ -31,7 +31,7 @@ Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automát
 | 🏠 | **Inicio de un vistazo** | Saldo disponible, cuánto llevas pagado y pendiente, y la tarjeta **“Libre para ti”**: lo que te sobra ya descontando todas tus deudas (en rojo si te falta dinero). |
 | 🗓️ | **Periodos editables** | Semanales, quincenales (1–15 y 16–fin de mes, como la nómina en México) o mensuales. Cambia fechas, tipo, nombre o ingreso cuando lo necesites. |
 | 🏪 | **414 comercios y servicios de México** | CFE, Telcel, Telmex, izzi, OXXO, Walmart, Netflix, Spotify, farmacias, gasolineras, bancos, apps de comida, ventas por catálogo, gobierno e impuestos, creadores (pixiv, pixivFANBOX, Patreon, SubscribeStar, Ko-fi…) y más, en **40 categorías**. Más de 350 con su logo incluido. |
-| 🚇 | **Transporte CDMX y Edomex** | Metro, Metrobús, Trolebús, Tren Ligero, Cablebús, RTP, Ecobici, Suburbano, Interurbano, corredores, microbús, combi y taxi, con íconos propios y **tarifa sugerida** (nov 2026). Registra línea (hasta dónde llega), de dónde a dónde y **transbordos**; los transbordos dentro de Metro o Metrobús no se cobran. |
+| 🚇 | **Transporte CDMX y Edomex** | Metro, Metrobús, Trolebús, Tren Ligero, Cablebús, RTP, Ecobici, Suburbano, Interurbano, corredores, microbús, combi y taxi, con íconos propios y **tarifa sugerida** (nov 2026). Registra línea (hasta dónde llega), de dónde a dónde y **transbordos**; los transbordos dentro de Metro o Metrobús no se cobran. **Calcula tus pasajes**: costo por viaje, ida y vuelta y los días que viajas, para saber cuánto gastas al día, a la semana y hasta la próxima quincena. |
 | 🎨 | **Ícono o imagen en cualquier gasto** | Ponle a un gasto su propio ícono con color o una imagen, aunque no tenga comercio. Administra tus categorías: nombre, ícono, color, imagen o eliminarlas (sus gastos pasan a "Otro"). |
 | ➕ | **Tus propios comercios y categorías** | ¿Usas uno que no está? Créalo con nombre, categoría y logo. Se asigna solo a tus gastos y el registro automático también lo reconoce. |
 | 🖼️ | **Logos personalizados** | ¿Falta un logo? Mantén presionado el comercio y pon una URL (SVG, PNG, JPG, GIF, WebP) o una imagen de tu teléfono. |
