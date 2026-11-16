@@ -7,9 +7,9 @@
 **Tu cochinito digital: ahorra, registra y controla tus gastos, 100% en tu teléfono.**
 Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automático desde las notificaciones de tu banco.
 
-[![Versión](https://img.shields.io/badge/versión-2.8-047857?style=for-the-badge)](../../releases/latest)
+[![Versión](https://img.shields.io/badge/versión-2.9-047857?style=for-the-badge)](../../releases/latest)
 [![Android](https://img.shields.io/badge/Android-10%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
-[![Tamaño](https://img.shields.io/badge/APK-8.7%20MB-0D9488?style=for-the-badge)](../../releases/latest)
+[![Tamaño](https://img.shields.io/badge/APK-7.7%20MB-0D9488?style=for-the-badge)](../../releases/latest)
 
 
 ### [⬇️ Descargar la última versión](../../releases/latest)
