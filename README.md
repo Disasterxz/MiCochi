@@ -7,9 +7,9 @@
 **Tu cochinito digital: ahorra, registra y controla tus gastos, 100% en tu teléfono.**
 Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automático desde las notificaciones de tu banco.
 
-[![Versión](https://img.shields.io/badge/versión-2.6-047857?style=for-the-badge)](../../releases/latest)
+[![Versión](https://img.shields.io/badge/versión-2.7-047857?style=for-the-badge)](../../releases/latest)
 [![Android](https://img.shields.io/badge/Android-10%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
-[![Tamaño](https://img.shields.io/badge/APK-7.6%20MB-0D9488?style=for-the-badge)](../../releases/latest)
+[![Tamaño](https://img.shields.io/badge/APK-8.7%20MB-0D9488?style=for-the-badge)](../../releases/latest)
 
 
 ### [⬇️ Descargar la última versión](../../releases/latest)
@@ -41,7 +41,8 @@ Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automát
 | 🔔 | **Recordatorios con notificación** | Nombre, etiqueta, día, hora y repetición (diaria, semanal, quincenal o mensual). Elige un tono del teléfono o tu propio audio. Suena con sonido, vibra en modo vibración y enciende la pantalla en silencio. |
 | ⚡ | **Registro automático** | Opcional. Cuando tu **banco o billetera** (BBVA, Santander, Nu, Mercado Pago, Stori…) te notifica una compra o retiro, la app anota el monto, el comercio, su categoría, el día y la hora. Ignora tiendas, cupones y promociones. Todo se analiza dentro del teléfono. |
 | 📴 | **Funciona sin internet** | Todo se guarda en el teléfono; los logos quedan guardados para verse sin conexión. |
-| 🔄 | **Se actualiza sola** | Al abrirla revisa si hay versión nueva y la descarga. Las actualizaciones son obligatorias; sin internet la app sigue funcionando normal. |
+| 🔄 | **Se actualiza sola** | Al abrirla revisa si hay versión nueva y la descarga. Las actualizaciones son obligatorias; sin internet la app sigue funcionando normal. En **Perfil → Actualizaciones** ves tu versión y puedes buscar actualizaciones pendientes. |
+| 🧩 | **Widgets** | 5 widgets para tu pantalla de inicio, de 1×1 a 4×3 y redimensionables: **Saldo**, **Libre para ti**, **Por pagar**, **Tarjetas** (deuda, disponible y próximo pago) y **Resumen**. Se actualizan solos. |
 | 📅 | **Calendario** | Lo que gastaste cada día, tus recordatorios y el periodo actual en una sola vista. |
 | 👤 | **Perfil y evaluación** | Foto de perfil y tus datos. Ve cuánto gastas al mes, por quincena y por semana, qué porcentaje de tu sueldo es (en un anillo) y en qué categorías gastas más, con anillos de porcentaje. |
 | 📊 | **Análisis** | Gráficas por categoría y estudio mensual de en qué gastas más. |
@@ -102,7 +103,6 @@ Download the latest APK from [**Releases**](../../releases/latest). Requires And
 ### 👤 Créditos / Credits
 
 **Manuel Morales** ([@Disasterxz](https://github.com/Disasterxz)): Independent Developer
-Collaborator at **[Decimal Solution](https://decimalsolution.com/)**
 
 Los logos de comercios y bancos pertenecen a sus respectivos dueños y se usan solo para identificar el gasto.
 Merchant and bank logos belong to their respective owners and are used only to identify expenses.
