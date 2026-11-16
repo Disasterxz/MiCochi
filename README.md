@@ -7,7 +7,7 @@
 **Tu cochinito digital: ahorra, registra y controla tus gastos, 100% en tu teléfono.**
 Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automático desde las notificaciones de tu banco.
 
-[![Versión](https://img.shields.io/badge/versión-2.5-047857?style=for-the-badge)](../../releases/latest)
+[![Versión](https://img.shields.io/badge/versión-2.6-047857?style=for-the-badge)](../../releases/latest)
 [![Android](https://img.shields.io/badge/Android-10%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
 [![Tamaño](https://img.shields.io/badge/APK-7.6%20MB-0D9488?style=for-the-badge)](../../releases/latest)
 
@@ -39,7 +39,9 @@ Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automát
 | 🧾 | **Saldos y pagos de tarjetas** | Débito: dinero disponible y ahorro. Crédito: lo que debes, límite, día de corte, fecha límite, pago mínimo o sin intereses y qué vas a pagar, con **recordatorio mensual de pago**. Totales y balance neto de todas tus tarjetas. |
 | 💵 | **Ingresos con ícono** | Ponle a cada ingreso extra un ícono y color, o el logo de su banco o plataforma, y edítalo cuando quieras. |
 | 🔔 | **Recordatorios con notificación** | Nombre, etiqueta, día, hora y repetición (diaria, semanal, quincenal o mensual). Elige un tono del teléfono o tu propio audio. Suena con sonido, vibra en modo vibración y enciende la pantalla en silencio. |
-| ⚡ | **Registro automático** | Opcional. Cuando tu banco o app de pago te notifica una compra, la app anota el monto, el comercio, su categoría, el día y la hora. Todo se analiza dentro del teléfono. |
+| ⚡ | **Registro automático** | Opcional. Cuando tu **banco o billetera** (BBVA, Santander, Nu, Mercado Pago, Stori…) te notifica una compra o retiro, la app anota el monto, el comercio, su categoría, el día y la hora. Ignora tiendas, cupones y promociones. Todo se analiza dentro del teléfono. |
+| 📴 | **Funciona sin internet** | Todo se guarda en el teléfono; los logos quedan guardados para verse sin conexión. |
+| 🔄 | **Se actualiza sola** | Al abrirla revisa si hay versión nueva y la descarga. Las actualizaciones son obligatorias; sin internet la app sigue funcionando normal. |
 | 📅 | **Calendario** | Lo que gastaste cada día, tus recordatorios y el periodo actual en una sola vista. |
 | 👤 | **Perfil y evaluación** | Foto de perfil y tus datos. Ve cuánto gastas al mes, por quincena y por semana, qué porcentaje de tu sueldo es (en un anillo) y en qué categorías gastas más, con anillos de porcentaje. |
 | 📊 | **Análisis** | Gráficas por categoría y estudio mensual de en qué gastas más. |
@@ -54,7 +56,7 @@ Periodos, gastos, tarjetas con saldos y pagos, recordatorios y registro automát
 
 ### ⬇️ Instalación
 
-1. Descarga `MiCochi-vX.Y.apk` desde [**Releases**](../../releases/latest).
+1. Descarga `MiCochi-vX.Y.apk` desde [**Releases**](../../releases/latest). Solo la primera vez: después la app se actualiza sola.
 2. Ábrelo en tu teléfono y permite instalar apps de esta fuente.
 3. Requiere Android 10 o superior.
 
